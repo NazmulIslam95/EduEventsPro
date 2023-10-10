@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "service_name": "Seminar Series",
+        "img": "https://i.ibb.co/L5cBSvR/gallery2.jpg",
+        "price": "$499",
+        "short_description": "Engage your audience with thought-provoking seminars and expert speakers."
+    },
+    {
+        "id": 2,
+        "service_name": "Workshop Workshops",
+        "img": "https://i.ibb.co/9pd0NPS/workshops.jpg",
+        "price": "$349",
+        "short_description": "Interactive workshops that foster learning and skill development."
+    },
+    {
+        "id": 3,
+        "service_name": "Conference Connect",
+        "img": "https://i.ibb.co/fq5CCP1/Conference-Connect.jpg",
+        "price": "$799",
+        "short_description": "Plan and execute large-scale conferences that leave a lasting impact."
+    },
+    {
+        "id": 4,
+        "service_name": "Webinar Wonders",
+        "img": "https://i.ibb.co/wwxGZYP/Webinar-Wonders.jpg",
+        "price": "$199",
+        "short_description": "Empower students with insightful symposiums on various subjects and inspiration."
+    },
+    {
+        "id": 5,
+        "service_name": "Student Symposium",
+        "img": "https://i.ibb.co/SnsPTmd/Student-Symposium.jpg",
+        "price": "$299",
+        "short_description": "Empower students with insightful symposiums on various subjects."
+    },
+    {
+        "id": 6,
+        "service_name": "Educational Expo",
+        "img": "https://i.ibb.co/tXPjVXs/Educational-Expo.jpg",
+        "price": "$599",
+        "short_description": "Showcase educational institutions and innovations at expos."
+    }
+]
